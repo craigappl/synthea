@@ -1,0 +1,3 @@
+,id,name,address,city,state,zip,county,phone,type,ownership,emergency,quality,LAT,LON
+0,10001,NGARA HOSPITAL,1108 HOSPITAL ROAD,NAIROBI,NAIROBI,11111,NAIROBI,9873746352,Acute Care Hospitals,Government - Hospital District or Authority,Yes,3,-1.286389,36.817223
+1,10005,NAIROBI CITY HOSPITAL,2505 KENYA ROAD,NAIROBI,NAIROBI,11111,NAIROBI,8726736251,Acute Care Hospitals,Government - Hospital District or Authority,Yes,2,-1.286389,36.817223

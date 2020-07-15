@@ -1,0 +1,2 @@
+,state,id,name,address,city,zip,phone,ownership,nursing,physical_therapy,occupational_therapy,speech,social,healthaide,startdate,quality,LAT,LON
+0,NAIROBI,17000,NAIROBI COUNTY DEPARTMENT OF PUBLIC HEALTH HOME CARE,201 MARA RD,NAIROBI,11111,1232123121,Government - State/ County,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,7/1/1966,,-1.286389,36.817223
